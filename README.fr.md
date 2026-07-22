@@ -48,7 +48,7 @@ nls-osint-agent/
 
 ---
 
-## 🚀 Démarrage rapide pour G Grok / Agent custom
+## 🚀 Démarrage rapide pour Grok / Agent custom
 
 1. Copie le contenu de `agent/SYSTEM_PROMPT_FR.md` (ou EN) dans les instructions custom / system prompt d’une nouvelle conversation Grok.
 2. Ou colle les modules en contexte.
