@@ -22,7 +22,7 @@ Practice grounds. Free / Freemium / Paid noted.
 | Kase Scenarios                    | OSINT SOCMINT GEOINT             | Freemium  | Scenario based |
 | OSINT Newsletter CTF              | OSINT SOCMINT GEOINT             | Free      | Newsletter linked |
 | OSINT Industries CTF              | OSINT SOCMINT GEOINT             | Free      | Industry CTF |
-| UK OSINT Community CT Community CTF            | OSINT SOCMINT GEOINT             | Free      | Community |
+| UK OSINT Community CTF            | OSINT SOCMINT GEOINT             | Free      | Community |
 | Mrs. OSINT CTF                    | OSINT INVESTIGATIONS GEOINT      | Free      | - |
 
 ## Agent Coaching Style
