@@ -68,7 +68,7 @@ nls-osint-agent/
 | Newsletters       | ~18   | Weekly / Freemium / Free            | `modules/newsletters.md` |
 | Blogs             | ~40+  | Investigations, CTI, Privacy, Dark Web | `modules/blogs.md` |
 | Podcasts          | ~15   | Intelligence, DFIR, Threats         | `modules/podcasts.md` |
-| CTFs & Hackathons | ~ tip 17   | Free / Freemium / Paid practice     | `modules/ctfs.md`    |
+| CTFs & Hackathons | ~17   | Free / Freemium / Paid practice     | `modules/ctfs.md`    |
 
 Full tagged list inside each module file.  
 `modules/index.json` for programmatic loading (CIM / Sexy Sequence / Python / Java hosts).
