@@ -13,7 +13,7 @@ Best OSINT newsletters. Frequency & pricing noted for agent recommendations.
 | OSINT Field Notes        | OSINT GEOINT SOCMINT             | Monthly             | Free      |
 | The OSINT Insider        | OSINT GEOINT SOCMINT             | Twice per month     | Freemium  |
 | Alicja Pawlowska         | OSINT SOCMINT GEOINT             | Every two weeks     | Free      |
-| Derek Bowler             | OSINT GEOINT INVESTIGATIONS      | Ir Irregular           | Free      |
+| Derek Bowler             | OSINT GEOINT INVESTIGATIONS      | Irregular           | Free      |
 | Chris Kubecka            | OSINT GEOINT INTELLIGENCE        | Irregular           | Free      |
 | The OS                   | OSINT INTELLIGENCE SOCMINT       | Weekly              | Free      |
 | Covert Access Team       | OSINT INFOSEC PHYSICAL SECURITY  | Weekly              | Free      |
